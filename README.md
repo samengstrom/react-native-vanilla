@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" src="https://github.com/pavjacko/react-native-vanilla/blob/feature/macos/docs/rn_full.png?raw=true" />
+  <img width="800" height="100" src="https://github.com/pavjacko/react-native-vanilla/blob/feature/macos/docs/rn_full.png?raw=true" />
 <p>
   <h1 align="center">react-native-vanilla</h1>
 <table>
