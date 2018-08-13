@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100" height="100" src="https://github.com/pavjacko/react-native-vanilla/blob/master/docs/rn.png?raw=true" />
+  <img width="100" height="100" src="https://github.com/pavjacko/react-native-vanilla/blob/feature/macos/docs/rn_full.png?raw=true" />
 <p>
   <h1 align="center">react-native-vanilla</h1>
 <table>
@@ -284,6 +284,14 @@ npm run tizen:build
 
 | [<img src="https://avatars.githubusercontent.com/u/4638697?v=4" width="100px;"/><br /><sub><b>Pavel Jacko</b></sub>](https://github.com/pavjacko)<br />[📖](https://github.com/pavjacko/react-native-vanilla/commits?author=pavjacko "Contributions") | [<img src="https://avatars.githubusercontent.com/u/1237997?v=4" width="100px;"/><br /><sub><b>Daniel Marino Ruiz</b></sub>](https://github.com/CHaNGeTe)<br />[📖](https://github.com/pavjacko/react-native-vanilla/commits?author=CHaNGeTe "Contributions") | [<img src="https://avatars.githubusercontent.com/u/5989212?v=4" width="100px;"/><br /><sub><b>Sander Looijenga</b></sub>](https://github.com/sanderlooijenga)<br />[📖](https://github.com/pavjacko/react-native-vanilla/commits?author=sanderlooijenga "Contributions") | [<img src="https://avatars1.githubusercontent.com/u/6653451?v=4" width="100px;"/><br /><sub><b>David Rielo</b></sub>](https://github.com/davidrielo)<br />[📖](https://github.com/pavjacko/react-native-vanilla/commits?author=davidrielo "Contributions") |
 | :---: | :---: | :---: | :---: |
+
+## Backers
+
+Support us with a monthly donation and help us continue our activities. [[Become a backer](https://opencollective.com/react-native-vanilla#backer)]
+
+## Sponsors
+
+Become a sponsor and get your logo on our README on Github with a link to your site. [[Become a sponsor](https://opencollective.com/react-native-vanilla#sponsor)]
 
 ## LICENSE
 
